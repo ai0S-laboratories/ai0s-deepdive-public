@@ -1,0 +1,186 @@
+{
+  "schema": "ai0s.dla.manifest.v1",
+  "name": "ai0S-deepdive",
+  "date": "2026-10-24",
+  "parent_anchor": "ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13",
+  "mode": "signed-only-no-anchor",
+  "hash_algorithm": "sha256",
+  "signer_ed25519_fingerprint": "9F4D9A266D720FE6336574D87B410637560297CF",
+  "files": [
+    {
+      "path": "AI-ADAPTIVE.0s",
+      "sha256": "92f46d70c4681aa1799e89bda9b913a54f8b763c0cfe0a378f97679b1d37ab4a"
+    },
+    {
+      "path": "AI-ADAPTIVE.0s.sig",
+      "sha256": "01a2f311177c5f31ca564746348423dc27e22875d39a772ac9eb21dc9699c523"
+    },
+    {
+      "path": "AI-BACK-TRANSLATION.0s",
+      "sha256": "f4e2a34d7940086da823bf5d51b2750cd099ada312d4530990b92c6e492f78bd"
+    },
+    {
+      "path": "AI-BACK-TRANSLATION.0s.sig",
+      "sha256": "bcc50f7f70f97ba7fbb9d3ad26670d6be512585360e0351cc8673559dd098140"
+    },
+    {
+      "path": "AI-FUTURE-GAP.0s",
+      "sha256": "d2fe33acbb33f44581d941d082d78e510e3afdc360357c01b8a43fc2621c505f"
+    },
+    {
+      "path": "AI-FUTURE-GAP.0s.sig",
+      "sha256": "c29b64367f5aacf51b767703f64c8c15f6e8ed68e13517eb56ebdd6b8ee21057"
+    },
+    {
+      "path": "AI-NEGATIVE-SHAPE.0s",
+      "sha256": "7f1b52caa066a5302f51dc987b18cd6bf9ccb6758be3cba7014242aa9cc7ea0a"
+    },
+    {
+      "path": "AI-NEGATIVE-SHAPE.0s.sig",
+      "sha256": "8c3330c482a5d337cabe32c42d2fcd34d032bf14427006ff8b9c74151d6d5157"
+    },
+    {
+      "path": "AI-PROSASSEMBLER.0s",
+      "sha256": "57741ef6da5d725aca582b673679280845ec0bc9e32373d7b9ab5bb01dd5aca7"
+    },
+    {
+      "path": "AI-PROSASSEMBLER.0s.sig",
+      "sha256": "12991431ca6f3c262533653c521baa553ff2bc1d76812606daf7081363fdfa4d"
+    },
+    {
+      "path": "AI-REALIZATION-DEEPDIVE.0s",
+      "sha256": "3f0d7023dd946478227fe9a8d6291e63f00a7c2f3fe48392738a2bfb7125de21"
+    },
+    {
+      "path": "AI-REALIZATION-DEEPDIVE.0s.sig",
+      "sha256": "dfcd5837df766226c929d48bcc28c3f4b93981e6fa7e39eaf2498a44dfd16d7c"
+    },
+    {
+      "path": "HANDBOOK-ADAPTIVE-EN.md",
+      "sha256": "2628839b7ff81f7edd757c72b6766f6de9d76938b0e7b90091cf4d9de6a500ac"
+    },
+    {
+      "path": "HANDBOOK-ADAPTIVE-EN.md.sig",
+      "sha256": "da3e85262329557b4483b27417fc0025c4998b8a19c128609fbe0fa7b65f336a"
+    },
+    {
+      "path": "HANDBOOK-BACK-TRANSLATION-EN.md",
+      "sha256": "59a8f4a7ea3128972691d98a1d1cc4d52c68b74bb4137726df24f149bf4ace0f"
+    },
+    {
+      "path": "HANDBOOK-BACK-TRANSLATION-EN.md.sig",
+      "sha256": "020935df63fbf8445ca09f15556e1e08030efa0d13efacde3c2bf844482813a7"
+    },
+    {
+      "path": "HANDBOOK-FUTURE-GAP-EN.md",
+      "sha256": "3019a32ee05cc18259cddc534b34eea66f79b7418f58b52648b70f3e1b405f42"
+    },
+    {
+      "path": "HANDBOOK-FUTURE-GAP-EN.md.sig",
+      "sha256": "4467a4d5fb08acf6ad25bb9a0d2cb6bf56d7d401f709d5ada1d892edab128029"
+    },
+    {
+      "path": "HANDBOOK-NEGATIVE-SHAPE-EN.md",
+      "sha256": "b0d01d2337515d0ceae10640c7f514fff91822ec2926651afb69c98fe37323a6"
+    },
+    {
+      "path": "HANDBOOK-NEGATIVE-SHAPE-EN.md.sig",
+      "sha256": "ffbadf5d214c5d4c1a0a88ae4c4b0434ee4a5a5616e89233b3408434ea73495d"
+    },
+    {
+      "path": "HANDBOOK-PROSASSEMBLER-EN.md",
+      "sha256": "970e40651a2213245a1ffdf9ff6853e92fbef5826d5c12853206472328dcde8e"
+    },
+    {
+      "path": "HANDBOOK-PROSASSEMBLER-EN.md.sig",
+      "sha256": "97ae4c1d6c10ac31cc984c9e3f3c85d9747a3b5ffbd4000754c72fc4d67a4415"
+    },
+    {
+      "path": "HANDBOOK-REALIZATION-EN.md",
+      "sha256": "c910c1c1129fcc6b3a38353172a9c230e25f251340760a77d393ef5584b15a2c"
+    },
+    {
+      "path": "HANDBOOK-REALIZATION-EN.md.sig",
+      "sha256": "ad37913f42d712cbca8b0ba84f4c6658e6339fa8ebc7e91207e70cc03cc03cca"
+    },
+    {
+      "path": "HANDBOOK-SAFETY-VIEW-EN.md",
+      "sha256": "0f9cf19ab9d5a98d4f63e7c203a587e4fdebab683b5f53e219f4d0c40c2c649b"
+    },
+    {
+      "path": "HANDBOOK-SAFETY-VIEW-EN.md.sig",
+      "sha256": "92ebc014f65f9ffc89b5bf546c2ce8d6dc69ab9ff7fa15731765bbeaff365559"
+    },
+    {
+      "path": "HANDBUCH-ADAPTIVE-DE.md",
+      "sha256": "fea2617e47aa2793c523bf76787c528dffdbdfc4801f65a8c113c3380c07c63c"
+    },
+    {
+      "path": "HANDBUCH-ADAPTIVE-DE.md.sig",
+      "sha256": "61463aa9e8897da1c0d5aed76a90bd90f57c96fb0de126cedb723d023b2984e4"
+    },
+    {
+      "path": "HANDBUCH-BACK-TRANSLATION-DE.md",
+      "sha256": "8dcddc4e9ef45622349e5a1d8aae680c1f38853b725a54e327917eef740a3766"
+    },
+    {
+      "path": "HANDBUCH-BACK-TRANSLATION-DE.md.sig",
+      "sha256": "35759010229887444aa96b3604365d704c8a7aecedcdb2e3a01c1d76a1ee0b09"
+    },
+    {
+      "path": "HANDBUCH-FUTURE-GAP-DE.md",
+      "sha256": "af3b23b14230ca0778c53cc738bc28d363aeea60e555547ee62533057e785c05"
+    },
+    {
+      "path": "HANDBUCH-FUTURE-GAP-DE.md.sig",
+      "sha256": "1b96590e343bc60c394aae869abee6c1961eb06ec5af4cef62de76bdfa322d54"
+    },
+    {
+      "path": "HANDBUCH-NEGATIVE-SHAPE-DE.md",
+      "sha256": "18f350eb90191c2659f2f25da5dec2b5b400d7ff97a9219e312a598e648ac5b1"
+    },
+    {
+      "path": "HANDBUCH-NEGATIVE-SHAPE-DE.md.sig",
+      "sha256": "f6a2c4e548bba19a238ec57148d85dd6fd564fac6fe1a5a577088f84a63040df"
+    },
+    {
+      "path": "HANDBUCH-PROSASSEMBLER-DE.md",
+      "sha256": "0bcf382ca1b4eb466546ecc6579118911ba81d5623f96938e6f3140d99bdeb6a"
+    },
+    {
+      "path": "HANDBUCH-PROSASSEMBLER-DE.md.sig",
+      "sha256": "0f22af1f98ad52ab6258da4b60d5572f7e2b813a4260587d37e540c69a32e1d4"
+    },
+    {
+      "path": "HANDBUCH-REALIZATION-DE.md",
+      "sha256": "1dfe0bc9bb71807050c0f1e89a9c61c2cad0d7028ed68438321d53a9eb113de5"
+    },
+    {
+      "path": "HANDBUCH-REALIZATION-DE.md.sig",
+      "sha256": "247aa833649782f6c285aabe8002df510a92ea468a95089cbf057a0cd55caaba"
+    },
+    {
+      "path": "HANDBUCH-SAFETY-VIEW-DE.md",
+      "sha256": "9ea97d263ac3f6659f9010ddc29c09285a390618455c4f2742fd4d197d0b56e5"
+    },
+    {
+      "path": "HANDBUCH-SAFETY-VIEW-DE.md.sig",
+      "sha256": "bf86bdeb40d48604fee716d75383b6433d009d859e5251f347183978bbb212e6"
+    },
+    {
+      "path": "README.md",
+      "sha256": "52be0941389e43953ff1017b88e7e08f790f641895733261508a7450b0844c94"
+    },
+    {
+      "path": "README.md.sig",
+      "sha256": "9bb40b304666ce5b0e3b0cf9fb4dfbf48d0d63f1df6f12ddc07d29ea4b50c09f"
+    }
+  ]
+}
+-----BEGIN PGP SIGNATURE-----
+
+iHUEABYKAB0WIQSfTZombXIP5jNldNh7QQY3VgKXzwUCauJdFwAKCRB7QQY3VgKX
+z4SSAP43ajmspE8L0ndT2PkWq8I79OftmKAI38Epa6U5S46ZNwD+NLNDA6sCFBbY
+hbgOJoWqeZlzpqrL3RD4eB2zx64t0QY=
+=ufAq
+-----END PGP SIGNATURE-----
